@@ -36,4 +36,4 @@ uvicorn
 langserve
 sse_starlette
 #pydantic==1.10.13
-pydantic==2.0.3
+pydantic>=2.0.0
